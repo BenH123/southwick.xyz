@@ -58,7 +58,7 @@ Before you begin, make sure you have the following software installed:
 
 Clone the repository and navigate to the project directory:
 ```bash
-git clone [https://github.com/BenH123/southwick.xyz.git]
+git clone https://github.com/BenH123/southwick.xyz.git
 cd southwick.xyz
 ```
 
